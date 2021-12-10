@@ -4,8 +4,8 @@ from virus import Virus
 class Person(object):
   def __init__(self, _id, is_vaccinated, infection = None):
     self._id = _id 
-    self.alive = True 
-    self.vaccinated = is_vaccinated
+    self.is_alive = True 
+    self.is_vaccinated = is_vaccinated
     self.infection = infection
 
   def did_survived_infection(self):

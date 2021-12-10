@@ -1,0 +1,4 @@
+********** HERD IMMUNITY SIMULATION ** 12/10/21 - 02:41:47 **********
+
+Population Size: 10000 | Initially Vaccinated %: 10.0 | Virus: Covid | Mortality Rate: 0.3 | Reproductive Rate: 0.1 
+
